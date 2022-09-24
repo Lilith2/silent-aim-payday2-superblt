@@ -1,0 +1,20 @@
+{
+	"name" : "silent",
+	"description" : "pSilent from csgo I guess.",
+	"author" : "Lilith2",
+	"contact" : "...",
+	"version" : "1.0",
+	"blt_version" : 2,
+	"keybinds" : 
+	[
+		{
+			"keybind_id" : "keybind_pSilent",
+			"name" : "pSilent keybind",
+			"description" : "...",
+			"script_path" : "silent.lua",
+			"run_in_menu" : false,
+			"run_in_game" : true,
+			"localized" : false
+		},
+	]
+}
